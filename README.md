@@ -1,4 +1,4 @@
-# TENUS Architecture Project
+# TENUS X86 IoT Gateway Processor Architecture Project
 
 This repository contains the simulation architectures, design space exploration sweeps, and parametric data analysis tools for the TENUS computer architecture project evaluated using the gem5 simulator framework.
 
