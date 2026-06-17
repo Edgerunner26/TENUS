@@ -1,6 +1,0 @@
-m5out/
-daxpy_x86
-__pycache__/
-*.pyc
-tlp_dashboard.html
-Compare_NSDT.py Compare_Super_SMT.py Dynamic_Branch.py ILP_Config_Eval.py ILP_Superscalar.py Loop_Parallelism_SIM.py No_Branch.py SIMD_SIM.py Static_Branch.py Tenus_matplotlib_metrics.py Tenus_x86_config.py Turn_Branch.py Vector_Sim.py
